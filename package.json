@@ -1,0 +1,9 @@
+{
+  "name": "hangouts-last-seen",
+  "title": "Hangouts Last Seen Alert",
+  "id": "jid1-CPX1RVA4gq0GPA",
+  "description": "Hide that pesky message telling you to re-enable the last seen feature on Hangouts",
+  "author": "Ziad Saab <ziad.saab@gmail.com>",
+  "license": "MIT",
+  "version": "1.0"
+}
